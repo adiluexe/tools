@@ -33,3 +33,6 @@ This repository showcases a collection of software utilities that have become in
 
 **Chris Titus Tech's Windows Utility:**
 > A PowerShell script and GUI tool ([https://github.com/ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)) for installing software, applying system tweaks, and fixing common Windows issues.
+
+**Squoosh:**
+> A web application ([https://squoosh.app/](https://squoosh.app/)) for compressing and optimizing images with various codecs and settings.
